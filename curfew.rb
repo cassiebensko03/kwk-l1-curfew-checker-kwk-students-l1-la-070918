@@ -6,8 +6,10 @@
 def hungry_lillian 
   mangos = 0
   until mangos == 10
-  puts "GIVE ME MANGOS!"
+  puts "GIVE ME my mangos i only have #{mangos} now!"
   mangos +=1
-end end 
+end 
+puts "thanks for the mangos"
+end 
 hungry_lillian
    
