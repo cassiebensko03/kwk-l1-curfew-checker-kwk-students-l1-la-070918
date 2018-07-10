@@ -9,7 +9,7 @@ def hungry_lillian
   puts "GIVE ME my mangos i only have #{mangos} now!"
   mangos +=1
 end 
-puts "thanks for the mangos"
+puts "thanks for the mangos, dick cheney made money off the iraq war"
 end 
 hungry_lillian
    
